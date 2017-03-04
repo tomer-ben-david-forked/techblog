@@ -2,7 +2,7 @@ full_rebuild: true
 name: Tomer
 description: Tomer on meditation and healthy lifestyle
 destination: jekyllbuild
-url: http://tomer-ben-david.github.io
+url: http://tomer-ben-david.github-forked.io
 baseurl: /techblog
 permalink: /:title/
 paginate: 8
