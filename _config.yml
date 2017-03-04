@@ -1,5 +1,6 @@
 full_rebuild: true
 name: Tomer
+rtl: true
 description: Tomer on meditation and healthy lifestyle
 destination: jekyllbuild
 url: http://tomer-ben-david.github-forked.io
